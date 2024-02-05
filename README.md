@@ -1,0 +1,1 @@
+# jadidlar_haqida__
