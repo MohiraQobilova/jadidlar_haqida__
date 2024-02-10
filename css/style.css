@@ -36,6 +36,7 @@ h1 {
   animation-name: bg_fon;
   animation-duration: 2s;
   animation-iteration-count: infinite;
+ 
 }
 
 .main:hover {
@@ -87,21 +88,7 @@ h1 {
   position: relative;
 }
 
-.box button {
-  width: 120px;
-  height: auto;
-  border-radius: 20px;
-  background-image: linear-gradient(to right, white, yellow);
-  /* position: absolute; */
-  right: 0;
-  bottom: 0;
-  left: -10;
 
-  border: none;
-  padding: 5px;
-  margin-right: 35px;
-  margin-top: 30px;
-}
 
 .box .name {
   top: 0;
@@ -157,7 +144,7 @@ h1 {
 .content {
   width: 1200px;
   height: auto;
-  background-color: rgb(222, 209, 209);
+  background-color:white;
   position: absolute;
   display: none;
   z-index: 1;
@@ -182,7 +169,7 @@ h1 {
 .content1 {
   width: 1200px;
   height: auto;
-  background-color: rgb(222, 209, 209);
+  background-color:white;
   position: absolute;
   display: none;
   z-index: 1;
@@ -193,7 +180,7 @@ h1 {
 .content2 {
   width: 1200px;
   height: auto;
-  background-color: rgb(222, 209, 209);
+  background-color:white;
   position: absolute;
   display: none;
   z-index: 1;
@@ -204,7 +191,7 @@ h1 {
 .content3 {
   width: 1200px;
   height: auto;
-  background-color: rgb(222, 209, 209);
+  background-color:white;
   position: absolute;
   display: none;
   z-index: 1;
@@ -215,7 +202,7 @@ h1 {
 .content4 {
   width: 1200px;
   height: auto;
-  background-color: rgb(222, 209, 209);
+  background-color:white;
   position: absolute;
   display: none;
   z-index: 1;
@@ -226,7 +213,7 @@ h1 {
 .content5 {
   width: 1200px;
   height: auto;
-  background-color: rgb(222, 209, 209);
+  background-color:white;
   position: absolute;
   display: none;
   z-index: 1;
@@ -238,7 +225,7 @@ h1 {
 .content6 {
   width: 1200px;
   height: auto;
-  background-color: rgb(222, 209, 209);
+  background-color:white;
   position: absolute;
   display: none;
   z-index: 1;
@@ -250,7 +237,7 @@ h1 {
 .content7 {
   width: 1200px;
   height: auto;
-  background-color: rgb(222, 209, 209);
+  background-color:white;
   position: absolute;
   display: none;
   z-index: 1;
@@ -261,7 +248,7 @@ h1 {
 .content8 {
   width: 1200px;
   height: auto;
-  background-color: rgb(222, 209, 209);
+  background-color:white;
   position: absolute;
   display: none;
   z-index: 1;
@@ -272,7 +259,7 @@ h1 {
 .content9 {
   width: 1200px;
   height: auto;
-  background-color: rgb(222, 209, 209);
+  background-color:white;
   position: absolute;
   display: none;
   z-index: 1;
@@ -283,7 +270,7 @@ h1 {
 .content10 {
   width: 1200px;
   height: auto;
-  background-color: rgb(222, 209, 209);
+  background-color:white;
   position: absolute;
   display: none;
   z-index: 1;
@@ -296,7 +283,7 @@ h1 {
 .content11 {
   width: 1200px;
   height: auto;
-  background-color: rgb(222, 209, 209);
+  background-color:white;
   position: absolute;
   display: none;
   z-index: 1;
@@ -307,7 +294,7 @@ h1 {
 .content12 {
   width: 1200px;
   height: auto;
-  background-color: rgb(222, 209, 209);
+  background-color:white;
   position: absolute;
   display: none;
   z-index: 1;
@@ -319,7 +306,7 @@ h1 {
 .content13 {
   width: 1200px;
   height: auto;
-  background-color: rgb(222, 209, 209);
+  background-color:white;
   position: absolute;
   display: none;
   z-index: 1;
@@ -330,7 +317,7 @@ h1 {
 .content14 {
   width: 1200px;
   height: auto;
-  background-color: rgb(222, 209, 209);
+  background-color:white;
   position: absolute;
   display: none;
   z-index: 1;
@@ -343,7 +330,7 @@ h1 {
 .content15 {
   width: 1200px;
   height: auto;
-  background-color: rgb(222, 209, 209);
+  background-color:white;
   position: absolute;
   display: none;
   z-index: 1;
@@ -355,7 +342,7 @@ h1 {
 .content16 {
   width: 1200px;
   height: auto;
-  background-color: rgb(222, 209, 209);
+  background-color:white;
   position: absolute;
   display: none;
   z-index: 1;
@@ -366,7 +353,7 @@ h1 {
 .content17 {
   width: 1200px;
   height: auto;
-  background-color: rgb(222, 209, 209);
+  background-color:white;
   position: absolute;
   display: none;
   z-index: 1;
@@ -377,7 +364,7 @@ h1 {
 .content18 {
   width: 1200px;
   height:auto;
-  background-color: rgb(222, 209, 209);
+  background-color:white;
   position: absolute;
   display: none;
   z-index: 1;
@@ -389,7 +376,7 @@ h1 {
 .content19 {
   width: 1200px;
   height: auto;
-  background-color: rgb(222, 209, 209);
+  background-color:white;
   position: absolute;
   display: none;
   z-index: 1;
@@ -401,7 +388,7 @@ h1 {
 .content20 {
   width: 1200px;
   height: auto;
-  background-color: rgb(222, 209, 209);
+  background-color:white;
   position: absolute;
   display: none;
   z-index: 1;
