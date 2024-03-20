@@ -1,5 +1,8 @@
 "use strict";
 
+
+
+
 function mOver(){
     document.querySelector(".content").style.display="block";
 }
@@ -300,3 +303,8 @@ function click(){
 function closeModal21( ){
     document.querySelector(".content21").style.display = "none";
 }   
+
+
+
+
+

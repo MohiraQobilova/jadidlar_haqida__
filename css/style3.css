@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.spiska{
+    background-color: rgb(218, 218, 207);
+    color: black;
+    width: 70%; 
+    height: 400px;
+    margin: 100px;
+    padding: 100px;
+    
+}
+
+.spiska p{
+    font-size:18px ;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px 0;
+}
+
+.qutti{
+    width: 100%;
+    height: auto;
+    padding: 0 100px;
+}
+
+.left{
+    float: left;
+
+}
+
+.left button{
+    width: 80px;
+    height: 40px;
+    font-size: 18px;
+    border-radius: 10px;
+    border: none;
+}
+  
+  .left button:hover{
+    cursor: pointer;
+    background-color: coral;
+  }
